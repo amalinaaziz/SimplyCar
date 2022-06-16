@@ -1,9 +1,12 @@
 # SimplyCar
 
-## For Full Stack Developer assessment
+### Full Stack Developer assessment
 
-### Server folder for backend api using Mongodb
-### Client folder for frontend using Vue.js
+Server folder - backend api using Node.js and Mongodb\
+Client folder - frontend using Vue.js
 
-## Issues
-### Deleting user causing error in car and car availability due to their dependency deleted.
+### Issues
+Deleting user causing error in car and car availability due to their dependency deleted.
+
+### Author
+Amalina Aziz
